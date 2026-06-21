@@ -35,9 +35,15 @@
     <tr>
       <td>6/22/2026</td>
       <td>Monday</td>
-      <td>Intro Slides, Abstraction, Functions, Welcome to Snap!</td>
-      <td>Build Your Own Blocks, Group Activity</td>
-      <td>Reflection Form, Challenge Problems, Snap! Scavenger Hunt</td>
+      <td>Welcome<br/>
+          Lecture: Abstraction by Dan<br/>
+          Activity: Snap! Scavenger Hunt<br/>
+          Get to Know You Form<br/>
+      </td>
+      <td>Lab 1: Welcome to Snap!<br/>
+          Split into Groups<br/></td>
+      <td>Work in Individual Groups<br/>
+          Reflection Form</td>
     </tr>
 
     <tr>
