@@ -5,12 +5,12 @@ nav_exclude: false
 permalink: /
 seo:
   type: Course
-  name: BJC Summer Academy 2025
+  name: BJC Summer Academy 2026
 nav_order: 1
 ---
 
-# **BJC Summer Academy 2025**
-UC Berkeley, Summer 2025
+# **BJC Summer Academy 2026**
+UC Berkeley, Summer 2026
 
 ## Presentation Link
 
