@@ -3,6 +3,7 @@
         border-collapse: collapse;
         width: 100%;
         text-align: center;
+        margin-bottom: 24px;
     }
     .schedule-table th,
     .schedule-table td {
@@ -12,8 +13,16 @@
     }
 </style>
 
-<table class="table table-bordered schedule-table">
+<p>
+    <a href="#week2">Jump to Week 2</a>
+</p>
+
+<!-- Week 1 -->
+<table class="table table-bordered schedule-table" id="week1">
   <thead>
+    <tr>
+      <th colspan="5">Week 1 (June 22–26, 2026)</th>
+    </tr>
     <tr>
       <th>Date</th>
       <th>Day</th>
@@ -62,7 +71,24 @@
       <td>Projects</td>
       <td>Feedback Form</td>
     </tr>
+  </tbody>
+</table>
 
+<!-- Week 2 -->
+<table class="table table-bordered schedule-table" id="week2">
+  <thead>
+    <tr>
+      <th colspan="5">Week 2 (June 29–July 2, 2026)</th>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>Day</th>
+      <th>9:30–11:30</th>
+      <th>1:30–3:30</th>
+      <th>4:00–5:30</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>6/29/2026</td>
       <td>Monday</td>
