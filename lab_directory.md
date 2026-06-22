@@ -17,6 +17,8 @@ nav_order: 5
 | [Lab: Data Science](https://docs.google.com/document/d/1dAiLwS48YmlgGpUUNhgyq9oW5oj9hcXHnqp-7-4TYH8/edit?usp=sharing)   
 
 ## Optional Labs
+
 | [Lab: Boards](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment) 
 | [Lab: HOFs and Functions as Data](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment)
 | [Lab: OOP in Snap!](https://docs.google.com/document/d/18OMc8HFIkOR8OigJdIvrlA96PIGkPdeVruULt_Wp6kk/edit?usp=sharing)
+|
