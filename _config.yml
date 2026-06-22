@@ -47,11 +47,11 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   OH Queue:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLScKuqcMMgAZyRQ_H8mtIpsTZBKflgn6ZoCUUpprha4elWKt-w/viewform?usp=dialog'
+    - 'https://forms.gle/urLhz8JhYxksX6Ln9'
   Snap!:
     - 'https://snap.berkeley.edu/run'
   Gradescope:
-    - 'https://www.gradescope.com/courses/1060188'
+    - 'https://www.gradescope.com/courses/1329851'
 
 
 
