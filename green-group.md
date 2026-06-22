@@ -2,7 +2,7 @@
 layout: default
 title: Green Group
 description: 
-nav_order: 6
+nav_order: 4
 ---
 # Green Group Schedule
 <!-- Add styles for alternating row colors and borders -->
