@@ -2,48 +2,14 @@
     .schedule-table {
         border-collapse: collapse;
         width: 100%;
-        table-layout: fixed;
+        text-align: center;
         margin-bottom: 24px;
     }
-
     .schedule-table th,
     .schedule-table td {
         border: 1px solid #A9A9A9;
         padding: 8px;
-        text-align: center;
-        vertical-align: middle;
-    }
-
-    /* Column widths */
-    .schedule-table th:nth-child(1),
-    .schedule-table td:nth-child(1) {
-        width: 10%;
-    }
-
-    .schedule-table th:nth-child(2),
-    .schedule-table td:nth-child(2) {
-        width: 12%;
-    }
-
-    .schedule-table th:nth-child(3),
-    .schedule-table td:nth-child(3),
-    .schedule-table th:nth-child(4),
-    .schedule-table td:nth-child(4),
-    .schedule-table th:nth-child(5),
-    .schedule-table td:nth-child(5) {
-        width: 26%;
-    }
-
-    /* Centered bullet lists */
-    .schedule-table ul {
-        list-style-position: inside;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-    }
-
-    .schedule-table li {
-        margin-bottom: 4px;
+        vertical-align: center;
     }
 </style>
 
@@ -123,6 +89,8 @@
       <td>Computing in the News</td>
       <td>Projects</td>
       <td>Feedback Form</td>
+    </tr>
+    <tr>
     </tr>
   </tbody>
 </table>
