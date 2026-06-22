@@ -42,7 +42,7 @@ nav_order: 4
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td>
-        <td></td> <!-- Discussion -->
+        <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a><td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
