@@ -2,7 +2,7 @@
 layout: default
 title: Blue Group
 description: 
-nav_order: 4
+nav_order: 2
 ---
 # Blue Group Schedule
 <!-- Add styles for alternating row colors and borders -->
@@ -19,9 +19,7 @@ nav_order: 4
 </style>
 
 <!-- Add a jump-to button to navigate to the current week -->
-<p>
-    <a href="#week1">Jump to Current Week</a>
-</p>
+
 
 <!-- Week 1 Calendar -->
 <table class="table table-bordered schedule-table" id="week1">
