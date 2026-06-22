@@ -43,14 +43,14 @@ nav_order: 4
         <td>Lec 4: Iteration</td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
         <a href="bjc-su26/lab_directory">Lab 3: Conditionals</a><br/>
-        <a href="bjc-su26/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
+        <a href="../lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td>Truth Tables</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
         <td><a href="">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
-        <td><a href="/bjc-su25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
+        <td><a href="lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
