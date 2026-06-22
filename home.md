@@ -22,7 +22,7 @@ To join the online Zoom project presentations, [click here](https://berkeley.zoo
 
 ### Gradescope
 
-To join the Gradescope (for autograders), go to [gradescope.com](Gradescope.com) and click on "Enroll in Course". Then enter the following code: PK2BNG
+To join the Gradescope (for autograders), go to [gradescope.com](www.Gradescope.com) and click on "Enroll in Course". Then enter the following code: PK2BNG
 
 ## Program Class Calendar
 
