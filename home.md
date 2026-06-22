@@ -22,7 +22,7 @@ To join the online Zoom project presentations, [click here](https://berkeley.zoo
 
 To join the Gradescope (for autograders), go to [gradescope.com](Gradescope.com) and click on "Enroll in Course". Then enter the following code: 8X5J6E
 
-## CS10 Calendar
+## Program Class Calendar
 
 {% include_relative schedule.md %}
 
