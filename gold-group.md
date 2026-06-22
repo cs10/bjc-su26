@@ -2,7 +2,7 @@
 layout: default
 title: Yellow Group
 description: 
-nav_order: 5
+nav_order: 3
 ---
 
 # Yellow Group Schedule
