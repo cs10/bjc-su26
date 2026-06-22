@@ -41,15 +41,13 @@ nav_order: 4
         <a href="https://docs.google.com/presentation/d/1JC1hEEYoTmeWdao2vzmkIiciprhKcADjZEois5_SV-Y/edit?usp=sharing">Lec 2. Conditionals</a></td>
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
-        Lab 3. Conditionals<br/></td>  -->
-        <!-- <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
-        <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td>  -->
+        <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td>
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/23</th>
-        <td>Lec 3: Iteration</a></td><!-- Lecture -->
+        <td>Lec 3: Iteration</td><!-- Lecture -->
         <td></td> 
         <td></td> <!-- Discussion -->
         <td><br/></td> <!-- Assignment / Exam -->
