@@ -45,16 +45,14 @@ nav_order: 4
         <a href="bjc-su26/lab_directory">Lab 3: Conditionals</a><br/>
         <a href="bjc-su26/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td>Truth Tables</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td><a href="">Lec 3. Lists + Loops</a><br/>
-        Lec 4. HOFs and Scope</td><!-- Lecture -->
-        <td><a href="/bjc-su25/lab_directory">Lab 2. Lists + Loops</a><br/>
-        <a href="/bjc-su25/lab_directory">Lab 3. HOFs</a></td> <!-- Lab -->
-        <td>Predicates + Truth Tables</td> <!-- Discussion -->
-        <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/draw-regular-polygons-with-repeat.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Generalize a Polygon!</a></td> <!-- Assignment / Exam -->
+        <td><a href="">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
+        <td><a href="/bjc-su25/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
