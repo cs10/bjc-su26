@@ -2,20 +2,52 @@
     .schedule-table {
         border-collapse: collapse;
         width: 100%;
-        text-align: center;
+        table-layout: fixed;
         margin-bottom: 24px;
     }
+
     .schedule-table th,
     .schedule-table td {
         border: 1px solid #A9A9A9;
         padding: 8px;
-        vertical-align: top;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    /* Column widths */
+    .schedule-table th:nth-child(1),
+    .schedule-table td:nth-child(1) {
+        width: 10%;
+    }
+
+    .schedule-table th:nth-child(2),
+    .schedule-table td:nth-child(2) {
+        width: 12%;
+    }
+
+    .schedule-table th:nth-child(3),
+    .schedule-table td:nth-child(3),
+    .schedule-table th:nth-child(4),
+    .schedule-table td:nth-child(4),
+    .schedule-table th:nth-child(5),
+    .schedule-table td:nth-child(5) {
+        width: 26%;
+    }
+
+    /* Centered bullet lists */
+    .schedule-table ul {
+        list-style-position: inside;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .schedule-table li {
+        margin-bottom: 4px;
     }
 </style>
 
-<p>
-    <a href="#week2">Jump to Week 2</a>
-</p>
+
 
 <!-- Week 1 -->
 <table class="table table-bordered schedule-table" id="week1">
@@ -23,27 +55,42 @@
     <tr>
       <th colspan="5">Week 1 (June 22–26, 2026)</th>
     </tr>
+      
     <tr>
-      <th>Date</th>
-      <th>Day</th>
-      <th>9:30–11:30</th>
-      <th>1:30–3:30</th>
-      <th>4:00–5:30</th>
-    </tr>
-  </thead>
-  <tbody>
+          <th>Date</th>
+          <th>Day</th>
+          <th>9:30–11:30</th>
+          <th>1:30–3:30</th>
+          <th>4:00–5:30</th>
+        </tr>
+      </thead>
+      <tbody>
     <tr>
       <td>6/22/2026</td>
       <td>Monday</td>
-      <td>Welcome<br/>
-          Lecture: Abstraction by Dan<br/>
-          Activity: Snap! Scavenger Hunt<br/>
-          Get to Know You Form<br/>
+    
+      <td>
+        <ul>
+          <li>Welcome</li>
+          <li>Lecture: Abstraction by Dan</li>
+          <li>Activity: Snap! Scavenger Hunt</li>
+          <li>Get to Know You Form</li>
+        </ul>
       </td>
-      <td>Lab 1: Welcome to Snap!<br/>
-          Split into Groups<br/></td>
-      <td>Work in Individual Groups<br/>
-          Reflection Form</td>
+    
+      <td>
+        <ul>
+          <li>Lab 1: Welcome to Snap!</li>
+          <li>Split into Groups</li>
+        </ul>
+      </td>
+    
+      <td>
+        <ul>
+          <li>Work in Individual Groups</li>
+          <li>Reflection Form</li>
+        </ul>
+      </td>
     </tr>
 
     <tr>
