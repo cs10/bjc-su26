@@ -129,7 +129,6 @@
       <td>
           <ul>
               <li>Game Theory: Coin Game (Old School AI)</li>
-              <li>Lecture: Data Science</li>
               <li>Work in Individual Groups</li>
           </ul>
       </td>
@@ -149,24 +148,25 @@
       <td>
           <ul>
               <li>Warm-Up Discussion</li>
-              <li>Review Community Norms</li>
-              <li>Group Activity</li>
+              <li>Introduce Final Projects</li>
               <li>Work in Individual Groups</li>
           </ul>
       </td>
 
       <td>
           <ul>
-              <li>Fun and Whimsical Game: Hexapawn</li>
-              <li>Lecture: Data Science</li>
-              <li>Work in Individual Groups</li>
+              <li>Fun and Whimsical Game</li>
+              <li>AI: Introduction</li>
+              <li>AI: Recognition</li>
+              <li>AI: Supervised Learning</li>
+              <li>AI: Reinforcement Learning</li>
           </ul>
       </td>
 
       <td>
           <ul>
-              <li>Work in Individual Groups</li>
-              <li>Group Activity</li>
+              <li>AI: Generative AI</li>
+              <li>AI: Neural Network + Perceptrons</li>
               <li>Wrap Up + Reflection Form</li>
           </ul>
       </td>
@@ -195,33 +195,99 @@
     <tr>
       <td>6/29/2026</td>
       <td>Monday</td>
-      <td>Algorithms</td>
-      <td>Finish Recursive Reporters + Fractals</td>
-      <td>Final Project Proposals and Approvals</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+              <li>Review Final Projects</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game</li>
+              <li>Work in Individual Groups</li>
+              <li>Review Final Projects</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work in Individual Groups</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+              <li>Review Final Projects</li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>6/30/2026</td>
       <td>Tuesday</td>
-      <td>Work on Cheese Chase</td>
-      <td>Finish Algorithms Activities</td>
-      <td>Ask Me Anything, Work on Final Projects</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game</li>
+              <li>Work on Final Projects</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work on Final Projects</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>7/1/2026</td>
       <td>Wednesday</td>
-      <td>Data Science</td>
-      <td>Data Science Activities</td>
-      <td>Work on Final Projects</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game</li>
+              <li>Work on Final Projects</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work on Final Projects</li>
+              <li>Wrap Up + Reflection Form</li>
+              <li><strong>7PM-9PM: Hackathon (Final Project Push)</strong></li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>7/2/2026</td>
       <td>Thursday</td>
-      <td>Presentations</td>
-      <td>Work on README</td>
-      <td>Final Project Submission Guidelines, Feedback Form</td>
+      <td>
+          <ul>
+              <li>Work on Final Projects</li>
+              <li>Work on README</li>
+              <li>Submit + Upload Video</li>
+          </ul>
+      </td>
+      <td>Presentations (Feel free to invite people to the Zoom!)</td>
+      <td>Wrap-up, Photos, Goodbyes</td>
     </tr>
   </tbody>
 </table>
