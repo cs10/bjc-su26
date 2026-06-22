@@ -39,7 +39,7 @@
         <ul>
           <li>Welcome</li>
           <li>Lecture: Abstraction by Dan</li>
-          <li>Activity: Snap! Scavenger Hunt</li>
+          <li><a href="https://docs.google.com/document/d/1HJotQMbHuBh8YlrNQWFaNSG_FX2Yz-aj/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Activity: Snap! Scavenger Hunt</a></li>
           <li>Get to Know You Form</li>
         </ul>
       </td>
