@@ -17,11 +17,11 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><a href="/bjc_su26/projects/project1/">Project 1: Wordle™-lite</a></td>
+      <td><a href="/bjc-su26/projects/project1/">Project 1: Wordle™-lite</a></td>
       <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
     </tr>
     <tr>
-      <td><a href="/bjc_su26/projects/project2/">Project 2: Spelling Bee</a></td>
+      <td><a href="/bjc-su26/projects/project2/">Project 2: Spelling Bee</a></td>
       <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
     </tr>
      <tr>
