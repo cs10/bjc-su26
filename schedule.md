@@ -3,7 +3,7 @@
         border-collapse: collapse;
         width: 100%;
         text-align: center;
-        margin-bottom: 24px;
+        
     }
     .schedule-table th,
     .schedule-table td {
@@ -171,8 +171,6 @@
           </ul>
       </td>
       
-    </tr>
-    <tr>
     </tr>
   </tbody>
 </table>
