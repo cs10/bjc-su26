@@ -62,33 +62,115 @@
     <tr>
       <td>6/23/2026</td>
       <td>Tuesday</td>
-      <td>Computing in the News</td>
-      <td>Projects</td>
-      <td>Feedback Form</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Review Community Norms</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+      
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game</li>
+              <li>Individual Group Lectures</li>
+          </ul>
+      </td>
+      
+      <td>
+          <ul>
+              <li>Work in Individual Groups</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>6/24/2026</td>
       <td>Wednesday</td>
-      <td>Computing in the News</td>
-      <td>Projects</td>
-      <td>Feedback Form</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game</li>
+              <li>Lecture: Data Science</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work in Individual Groups</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>6/25/2026</td>
       <td>Thursday</td>
-      <td>Computing in the News</td>
-      <td>Projects</td>
-      <td>Feedback Form</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Game Theory: Coin Game (Old School AI)</li>
+              <li>Lecture: Data Science</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work in Individual Groups</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+          </ul>
+      </td>
     </tr>
 
     <tr>
       <td>6/26/2026</td>
       <td>Friday</td>
-      <td>Computing in the News</td>
-      <td>Projects</td>
-      <td>Feedback Form</td>
+      <td>
+          <ul>
+              <li>Warm-Up Discussion</li>
+              <li>Review Community Norms</li>
+              <li>Group Activity</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Fun and Whimsical Game: Hexapawn</li>
+              <li>Lecture: Data Science</li>
+              <li>Work in Individual Groups</li>
+          </ul>
+      </td>
+
+      <td>
+          <ul>
+              <li>Work in Individual Groups</li>
+              <li>Group Activity</li>
+              <li>Wrap Up + Reflection Form</li>
+          </ul>
+      </td>
+      
     </tr>
     <tr>
     </tr>
