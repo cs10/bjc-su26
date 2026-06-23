@@ -39,15 +39,15 @@ nav_order: 4
         <th>Mon 6/22</th> <!-- Date -->
         <td>Lec 4: Iteration</td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
-        <a href="/lab_directory">Lab 3: Conditionals</a><br/>
-        <a href="/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
+        <a href="/bjc-su26/lab_directory">Lab 3: Conditionals</a><br/>
+        <a href="/bjc-su26/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td>Truth Tables</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td><a href="/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
-        <td><a href="lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
+        <td><a href="/bjc-su26/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
+        <td><a href="/bjc-su26/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
@@ -55,11 +55,11 @@ nav_order: 4
         <th>Wed 6/25</th> <!-- Date -->
         <td>Lec 5. Higher Order Functions<br/>
         Lec 6. Nested Lists</td> <!-- Lecture -->
-        <td><a href="/lab_directory">Cont Lab 4: Iteration</a><br/>
-        <a href="/lab_directory">Lab 5. HOFs + Lists<</a>br/>
+        <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
+        <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><br/>
         Lab 7. Functions as Data</td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td> <!-- Assignments -->
+        <td></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
@@ -79,4 +79,3 @@ nav_order: 4
 </table>
 
 <br/>
-
