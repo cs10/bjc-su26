@@ -82,7 +82,7 @@
           <ul>
               <li>Work in Individual Groups</li>
               <li>Group Activity</li>
-              <li>Wrap Up + Reflection Form</li>
+              <li><a href="https://tinyurl.com/reflection2bjc">Wrap Up + Reflection Form</a></li>
           </ul>
       </td>
     </tr>
