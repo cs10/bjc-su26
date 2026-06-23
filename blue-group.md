@@ -41,14 +41,15 @@ nav_order: 4
         <a href="https://docs.google.com/presentation/d/1JC1hEEYoTmeWdao2vzmkIiciprhKcADjZEois5_SV-Y/edit?usp=sharing">Lec 2. Conditionals</a></td>
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
-        <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td>
+        </td>
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a><td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/23</th>
-        <td>Lec 3: Iteration</td><!-- Lecture -->
-        <td></td> 
+        <td><a href="https://docs.google.com/presentation/d/1JToCXBpiF8QlFj1A7--XgekNQCzaTgEMybbLZHBFVOI/edit?usp=sharing">Lec 3: Iteration</a></td><!-- Lecture -->
+        <td><a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/>
+            <a href="https://docs.google.com/document/d/1SWvggIxXtk3wzM85eEJru4YGwPWfNmsK9GN6H5soJXU/edit?usp=sharing">Lab 4. Iteration</a></td>
         <td></td> <!-- Discussion -->
         <td><br/></td> <!-- Assignment / Exam -->
     </tr>
