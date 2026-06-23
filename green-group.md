@@ -19,10 +19,7 @@ nav_order: 4
     }
 </style>
 
-<!-- Add a jump-to button to navigate to the current week -->
-<p>
-    <a href="#week1">Jump to Current Week</a>
-</p>
+
 
 <!-- Week 1 Calendar -->
 <table class="table table-bordered schedule-table" id="week1">
@@ -42,35 +39,34 @@ nav_order: 4
         <th>Mon 6/22</th> <!-- Date -->
         <td>Lec 4: Iteration</td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
-        <a href="bjc-su26/lab_directory">Lab 3: Conditionals</a><br/>
-        <a href="../lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
+        <a href="/lab_directory">Lab 3: Conditionals</a><br/>
+        <a href="/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td>Truth Tables</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td><a href="">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
+        <td><a href="/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
         <td><a href="lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/1wTHm5WBqCWBxHGikdMoJSyKlrNljobwYmaKyfahzbFI/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a><br/>
+        <td>Lec 5. Higher Order Functions<br/>
         Lec 6. Nested Lists</td> <!-- Lecture -->
-        <td>Lab 5. HOFs<br/>
-        Lab 6. Boards<br/>
+        <td><a href="/lab_directory">Cont Lab 4: Iteration</a><br/>
+        <a href="/lab_directory">Lab 5. HOFs + Lists<</a>br/>
         Lab 7. Functions as Data</td><!-- Lab -->
-        <td><a href="https://docs.google.com/document/d/14hV5ngzGthH-nHbw9eV9XKH30Z5ocm7N/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Disc. HOFs + Nested Lists</a></td> <!-- Discussion -->
-        <td>Wordle<br/>
-        Spelling Bee<br/></td> <!-- Assignments -->
+        <td></td> <!-- Discussion -->
+        <td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td>Lec 5: HOFs + Lists</td><!-- Lecture -->
+        <td>Finish Lab 5: HOFs + Lists<br/></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td><a href="/projects">Proj 2: Spelling Bee</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 6/27</th> <!-- Date -->
@@ -84,58 +80,3 @@ nav_order: 4
 
 <br/>
 
-
-
-<!-- Week 2 Calendar -->
-<table class="table table-bordered schedule-table" id="week1">
-  <thead>
-    <tr>
-      <th class="center schedule-week-num">Week 2</th>
-      <th>Date</th>
-      <th>Lecture</th>
-      <th>Lab</th>
-      <th>Discussion / Social Implications</th>
-      <th>Assignment / Project</th>
-    </tr>
-  </thead>
-  <tbody class="content">
-    <tr>
-        <th rowspan="5">Week 2</th> <!-- Span 5 days -->
-        <th>Mon 6/30</th> <!-- Date -->
-        <td>Lecture: Algorithms/td><!-- Lecture -->
-        <td>Lab: Algorithms<br/>Finish Lab 8/9: Recursive Reporters + Fractals</td> <!-- Lab -->
-        <td></td> <!-- Discussi>on -->
-        <td>Final Project Proposals and Approvals</td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Tue 7/1</th> <!-- Date -->
-        <td>Work on Cheese Chase<br/></td><!-- Lecture -->
-        <td>Finish Lab 10: Algorithms</td> <!-- Lab -->
-        <td>Ask Me Anyting</td> <!-- Discussion -->
-        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Wed 7/2</th> <!-- Date -->
-        <td>Lecture: Data Science</td><!-- Lecture -->
-        <td>Data Science Lab</td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Thu 7/3</th> <!-- Date -->
-        <td>Presentations</td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td>Work on README for Final Projects</td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Fri 7/4</th> <!-- Date -->
-        <td>No class! Going home!</td><!-- Lecture -->
-        <td>No class! Going home!</td> <!-- Lab -->
-        <td>No class! Going home!</td> <!-- Discussion -->
-        <td>No class! Going home!</td> <!-- Assignment / Exam -->
-    </tr>
-  </tbody>
-</table>
-
-<br/>
