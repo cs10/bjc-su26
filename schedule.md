@@ -37,13 +37,13 @@
     
       <td>
         <ul>
-          <li>Welcome</li>
-          <li>Lecture: Abstraction by Dan</li>
+          <li>Welcome Slides</li>
+          <li><a href="https://docs.google.com/presentation/d/18AJCPhDajv9tSqIGIbb2Fej6YMYs5E83QVKH_xvLdwQ/edit?usp=sharing">Lecture: Abstraction by Dan</li>
           <li><a href="https://docs.google.com/document/d/1HJotQMbHuBh8YlrNQWFaNSG_FX2Yz-aj/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Activity: Snap! Scavenger Hunt</a></li>
           <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-USn7ze7BwfTxdnz2LA9dTcADoANosbtBm26d36KgIkH6Aw/viewform?usp=header">Get to Know You Form</a></li>
         </ul>
       </td>
-    
+
       <td>
         <ul>
           <li>Lab 1: Welcome to Snap!</li>
@@ -54,11 +54,11 @@
       <td>
         <ul>
           <li>Work in Individual Groups</li>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd4s3yiNnj2ka_sWcacWH4hzyWNiNUwfT44sQrqGd6Vj_-0Aw/viewform?usp=sharing&ouid=106220240438634734707">Reflection Form</a></li>
+          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHrtOO8-8tpc6Jv4co3BD1SfA-U7u8gASGdF2GUEHc8f3dOA/viewform?usp=sharing&ouid=106220240438634734707">Reflection Form</a></li>
         </ul>
       </td>
     </tr>
-
+    
     <tr>
       <td>6/23/2026</td>
       <td>Tuesday</td>
@@ -82,7 +82,7 @@
           <ul>
               <li>Work in Individual Groups</li>
               <li>Group Activity</li>
-              <li><a href="https://tinyurl.com/reflection2bjc">Wrap Up + Reflection Form</a></li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd4s3yiNnj2ka_sWcacWH4hzyWNiNUwfT44sQrqGd6Vj_-0Aw/viewform?usp=sharing&ouid=106220240438634734707">Wrap Up + Reflection Form</a></li>
           </ul>
       </td>
     </tr>
@@ -110,7 +110,7 @@
           <ul>
               <li>Work in Individual Groups</li>
               <li>Group Activity</li>
-              <li>Wrap Up + Reflection Form</li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFlkYTBzTv9Yq_tX8GL2PDc-ODhaP5rK0rF9wAX8v9_MkzSg/viewform?usp=sharing&ouid=106220240438634734707">Wrap Up + Reflection Form</a></li>
           </ul>
       </td>
     </tr>
