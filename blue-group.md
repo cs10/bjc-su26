@@ -55,7 +55,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Wed 6/24</th> <!-- Date -->
-        <td>Lec 4. Lists, Scope, Variables</td> <!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1m4bPqb6TniWVGAKqgpriSFJQtc8e-FBTfHBfWNvRIks/edit?usp=sharing">Lec 4. Lists, Scope, Variables</a></td> <!-- Lecture -->
         <td>
             <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lab 5. Lists & HOFs</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
