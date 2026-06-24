@@ -45,14 +45,14 @@ nav_order: 4
         <td>Truth Tables</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Tue 6/24</th> <!-- Date -->
+        <th>Tue 6/23</th> <!-- Date -->
         <td><a href="/bjc-su26/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 6/25</th> <!-- Date -->
+        <th>Wed 6/24</th> <!-- Date -->
         <td>Lec: Advanced Higher Order Functions </td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><br/>
@@ -61,7 +61,7 @@ nav_order: 4
         <td><a href="/bjc_su26/project">Project 2: Spelling Bee</a></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 6/26</th> <!-- Date -->
+        <th>Thu 6/25</th> <!-- Date -->
         <td>Lec: Linear Recursion</td><!-- Lecture -->
         <td>Lab: Recursive Reporters<br/>
         Lab: Trees + Fractals </td> <!-- Lab -->
@@ -69,7 +69,7 @@ nav_order: 4
         <td><a href="/bjc_su26/projects">Proj 3: 2048</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 6/27</th> <!-- Date -->
+        <th>Fri 6/26</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
