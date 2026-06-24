@@ -57,7 +57,7 @@ nav_order: 4
         <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><br/>
         Lab 7. Functions as Data</td><!-- Lab -->
-        <td><a href="https://forms.gle/Erj2vS867bcAdwPu9"></a></td> <!-- Discussion -->
+        <td><a href="https://forms.gle/Erj2vS867bcAdwPu9">Reflection Form</a></td> <!-- Discussion -->
         <td><a href="/bjc_su26/project">Project 2: Spelling Bee</a></td> <!-- Assignments -->
     </tr>
     <tr>
