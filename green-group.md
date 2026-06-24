@@ -48,7 +48,7 @@ nav_order: 4
         <th>Tue 6/23</th> <!-- Date -->
         <td><a href="/bjc-su26/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td><a href="https://forms.gle/j7Wt5Mh5ChiKPKf48">Reflection Form</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -57,7 +57,7 @@ nav_order: 4
         <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><br/>
         Lab 7. Functions as Data</td><!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td><a href="https://forms.gle/Erj2vS867bcAdwPu9"></a></td> <!-- Discussion -->
         <td><a href="/bjc_su26/project">Project 2: Spelling Bee</a></td> <!-- Assignments -->
     </tr>
     <tr>
