@@ -56,9 +56,12 @@ nav_order: 4
     <tr>
         <th>Wed 6/24</th> <!-- Date -->
         <td>Lec 4. Lists, Scope, Variables</td> <!-- Lecture -->
-        <td></td><!-- Lab -->
+        <td>
+            <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lab 5. Lists & HOFs</a></td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td>Wordle
+            <br/><a href="https://cs10.org/bjc-su26/projects/project1/">(Spec)</a>
+                <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
