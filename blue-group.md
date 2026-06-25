@@ -61,14 +61,19 @@ nav_order: 4
         <td></td> <!-- Discussion -->
         <td>Wordle
             <br/><a href="https://cs10.org/bjc-su26/projects/project1/">(Spec)</a>
-                <a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
+                <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
         <td>Lec 5. Adv HOFs, Rings, Nested Lists</td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td>Spelling Bee
+            <br/><a href="https://cs10.org/bjc-su26/projects/project2/">(Spec)</a>
+                <a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">(Walkthrough)</a>
+        <br/>2048
+        <br/><a href="https://cs10.org/bjc-su26/projects/project3/">(Spec)</a>
+                <a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">(Walkthrough)</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 6/26</th> <!-- Date -->
