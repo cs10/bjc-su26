@@ -55,16 +55,15 @@ nav_order: 4
         <th>Wed 6/24</th> <!-- Date -->
         <td>Lec: Advanced Higher Order Functions </td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
-        <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><br/>
-        Lab 7. Functions as Data</td><!-- Lab -->
+        <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><!-- Lab -->
         <td><a href="https://forms.gle/Erj2vS867bcAdwPu9">Day 3 Reflection</a></td> <!-- Discussion -->
         <td><a href="/bjc_su26/project">Project 2: Spelling Bee</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
         <td>Lec: Linear Recursion</td><!-- Lecture -->
-        <td>Lab: Recursive Reporters<br/>
-        Lab: Trees + Fractals </td> <!-- Lab -->
+        <td><a href="/bjc-su26/lab_directory">Lab: Recursive Reporters</a><br/>
+        <a href="/bjc-su26/lab_directory">Lab: Trees + Fractals</a></td> <!-- Lab -->
         <td><a href="https://forms.gle/vFbxk8yCRsqTwFt57">Day 4 Reflection</a></td> <!-- Discussion -->
         <td><a href="/bjc_su26/projects">Proj 3: 2048</a></td> <!-- Assignment / Exam -->
     </tr>
