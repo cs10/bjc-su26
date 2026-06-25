@@ -41,7 +41,7 @@ nav_order: 3
         <td>Lec 1. Abstraction<br/>
         <a href="https://docs.google.com/presentation/d/1aVYH4lL_ygeROzbo67EsFygxclIdVR8__Eyd0UdLvFI/edit?usp=sharing">Lec 2. Functions</a></td>
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
-        <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
+        <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a>
         </td>
         <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
