@@ -37,7 +37,8 @@ nav_order: 4
     <tr>
         <th rowspan="5">Week 1</th> <!-- Span 5 days -->
         <th>Mon 6/22</th> <!-- Date -->
-        <td>Lec 4: Iteration</td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1FXDZSiLCkVWhL7PAPMbsu82ZUCw0GypQtTiGtGZ7roA/edit?usp=sharing">Lec 3: Review Conditionals</a><br/>
+            Lec 4: Iteration</td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 3: Conditionals</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 4: Iteration</a></td><!-- Lab -->
@@ -46,14 +47,15 @@ nav_order: 4
     </tr>
     <tr>
         <th>Tue 6/23</th> <!-- Date -->
-        <td><a href="/bjc-su26/lab_directory">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1Q1o-RkRaE9iXwtF04xvMemZD4L8BuC-ac61Q6QeZhc0/edit?usp=drive_link">Lec 5: Lists + HOFs</a></td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Lab 5. Lists + HOFs</a></td> <!-- Lab -->
         <td><a href="https://forms.gle/j7Wt5Mh5ChiKPKf48">Day 2 Reflection</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 6/24</th> <!-- Date -->
-        <td>Lec: Advanced Higher Order Functions </td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1OB30rmVjYUuo0tBYKYx8-qOgP2sBS91A5G7i4fkYBoU/edit?usp=drive_link">Lec: Advanced Higher Order Functions</a><br/>
+            <a href="https://docs.google.com/presentation/d/1OWxHzmG3RIfVDV3HwthHCHM76gNUT1buhnmiZVkjUGY/edit?usp=sharing">Lec: Linear Recursion</a></td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Cont Lab 4: Iteration</a><br/>
         <a href="/bjc-su26/lab_directory">Lab 5. HOFs + Lists</a><!-- Lab -->
         <td><a href="https://forms.gle/Erj2vS867bcAdwPu9">Day 3 Reflection</a></td> <!-- Discussion -->
@@ -61,7 +63,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
-        <td>Lec: Linear Recursion</td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1FDanPA6JrgPolga5iCgxpaazjimLYb0mXjjRgt_4Uos/edit?usp=sharing">Lec: Tree Recursion + Fractals</td></a><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Lab: Recursive Reporters</a><br/>
         <a href="/bjc-su26/lab_directory">Lab: Trees + Fractals</a></td> <!-- Lab -->
         <td><a href="https://forms.gle/vFbxk8yCRsqTwFt57">Day 4 Reflection</a></td> <!-- Discussion -->
