@@ -120,7 +120,7 @@
       <td>Thursday</td>
       <td>
           <ul>
-              <li>Warm-Up Discussion</li>
+              <li><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=BJC%20Summer%3A%20Alonzo%20%2B%20Butterfly%20Game">Warm-Up Challenge: Alonzo + Butterfly Game</a></li>
               <li>Group Activity</li>
               <li>Work in Individual Groups</li>
           </ul>
