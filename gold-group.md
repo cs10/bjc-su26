@@ -67,7 +67,7 @@ nav_order: 3
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
-        <td><a href = "https://docs.google.com/presentation/d/156UTy4SKa86XeORd0WBqMYRnIXi8OfixlVhruF2_6kU/edit?usp=sharing">Lec 6. HOFs</td><!-- Lecture -->
+        <td><a href = "https://docs.google.com/presentation/d/156UTy4SKa86XeORd0WBqMYRnIXi8OfixlVhruF2_6kU/edit?usp=sharing">Lec 6. HOFs</a></td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lab 5. Lists & HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
