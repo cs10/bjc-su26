@@ -61,7 +61,7 @@ nav_order: 4
         <td></td> <!-- Discussion -->
         <td>Wordle
             <br/><a href="https://cs10.org/bjc-su26/projects/project1/">(Spec)</a>
-                <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
+                <a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
