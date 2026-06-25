@@ -128,7 +128,7 @@
 
       <td>
           <ul>
-              <li>Game Theory: Coin Game (Old School AI)</li>
+              <li>Blue Dolphin (AI)</li>
               <li>Work in Individual Groups</li>
           </ul>
       </td>
@@ -137,7 +137,7 @@
           <ul>
               <li>Work in Individual Groups</li>
               <li>Group Activity</li>
-              <li>Wrap Up + Reflection Form</li>
+              <li><a href="https://forms.gle/vFbxk8yCRsqTwFt57">Wrap Up + Reflection Form</a></li>
           </ul>
       </td>
     </tr>
