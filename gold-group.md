@@ -29,7 +29,6 @@ nav_order: 3
   <thead>
     <tr>
       <th class="center schedule-week-num">Week 1</th>
-      <th>Date</th>
       <th>Lecture</th>
       <th>Lab</th>
       <th>Discussion / Social Implications</th>
@@ -38,39 +37,44 @@ nav_order: 3
   </thead>
   <tbody class="content">
     <tr>
-        <th>Mon 6/23</th> <!-- Date -->
-        <td>Lec 1. Abstraction</td><!-- Lecture -->
-        <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
-        <td>Group Activity</td> <!-- Discussion -->
-        <td>Challenge Problems!</td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Tue 6/24</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/12hrzIf6xTr3KwZJ1wSJ2LmpG4HR_pLfecn6FNS_fBHg/edit?usp=sharing">Lec 3. Conditions, Predicates, Truth Tables<br/>
-        Lec 4. Lists + Loops</a></td><!-- Lecture -->
+        <th>Mon 6/22</th> <!-- Lecture -->
+        <td>Lec 1. Abstraction<br/>
+        <a href="https://docs.google.com/presentation/d/1aVYH4lL_ygeROzbo67EsFygxclIdVR8__Eyd0UdLvFI/edit?usp=sharing">Lec 2. Functions</a></td>
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
-        <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td> 
-        <td></td> <!-- Discussion -->
-        <td><a href="/bjc-su25/projects">Wordle</a><br/></td> <!-- Assignment / Exam -->
+        </td>
+        <td><a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 6/25</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/12hrzIf6xTr3KwZJ1wSJ2LmpG4HR_pLfecn6FNS_fBHg/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a></td> <!-- Lecture -->
-        <td>Lab 4. Lists + Loops</td><!-- Lab -->
+        <th>Tue 6/23</th>
+        <td><a href="https://docs.google.com/presentation/d/1tY8VRvBAAD7yoo8zpOEek1G9MkTEkUNQoPKs-d6v6Lg/edit?slide=id.g3f1799b410e_0_0#slide=id.g3f1799b410e_0_0">Lec 3: Conditionals</a>
+            <br/><a href="https://docs.google.com/presentation/d/184KZRHAi7aWrgzNq3jIvCivePQaJzLb5wCfCMtWseHI/edit?usp=sharing">Lec 4. Variables and Iteration</a></td><!-- Lecture -->
+        <td><a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/>
+            </td>
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td><br/></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Thu 6/26</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <th>Wed 6/24</th> <!-- Date -->
+        <td><a href="https://docs.google.com/presentation/d/1ZFoeAGIJT7socoD7sxe-A0YB1Py_iyQS9_cC0B9lReM/edit?usp=sharing">Lec 5. Lists, Scope, Variables</a></td> <!-- Lecture -->
+        <td><a href="https://docs.google.com/document/d/1SWvggIxXtk3wzM85eEJru4YGwPWfNmsK9GN6H5soJXU/edit?usp=sharing">Lab 4. Iteration</a>
+            </td><!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Wordle
+            <br/><a href="https://cs10.org/bjc-su26/projects/project1/">(Spec)</a>
+                <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">(Walkthrough)</a></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 6/25</th> <!-- Date -->
+        <td><a href = "https://docs.google.com/presentation/d/156UTy4SKa86XeORd0WBqMYRnIXi8OfixlVhruF2_6kU/edit?usp=sharing">Lec 6. HOFs</td><!-- Lecture -->
+        <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lab 5. Lists & HOFs</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 6/27</th> <!-- Date -->
-        <td></td><!-- Lecture -->
+        <th>Fri 6/26</th> <!-- Date -->
+        <td></td>
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
