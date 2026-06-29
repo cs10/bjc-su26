@@ -63,7 +63,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Thu 6/25</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/1FDanPA6JrgPolga5iCgxpaazjimLYb0mXjjRgt_4Uos/edit?usp=sharing">Lec: Tree Recursion + Fractals</td></a><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1FDanPA6JrgPolga5iCgxpaazjimLYb0mXjjRgt_4Uos/edit?usp=sharing">Lec: Tree Recursion + Fractals</a></td><!-- Lecture -->
         <td><a href="/bjc-su26/lab_directory">Lab: Recursive Reporters</a><br/>
         <a href="/bjc-su26/lab_directory">Lab: Trees + Fractals</a></td> <!-- Lab -->
         <td><a href="https://forms.gle/vFbxk8yCRsqTwFt57">Day 4 Reflection</a></td> <!-- Discussion -->
@@ -71,12 +71,63 @@ nav_order: 4
     </tr>
     <tr>
         <th>Fri 6/26</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td>AI (big groups)</td><!-- Lecture -->
+        <td>AI (big groups)</td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td><a href="https://www.gradescope.com/courses/1329851/assignments/8256517">Homework: Final Project Proposals</a></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
 
 <br/>
+
+
+<!-- Week 2 Calendar -->
+<table class="table table-bordered schedule-table" id="week2">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week 2</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion / Social Implications</th>
+      <th>Assignment / Project</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <th rowspan="5">Week 2</th> <!-- Span 5 days -->
+        <th>Mon 6/29</th> <!-- Date -->
+        <td><a href="https://docs.google.com/presentation/d/1FDanPA6JrgPolga5iCgxpaazjimLYb0mXjjRgt_4Uos/edit?usp=sharing">Lec: Tree Recursion</a><br/>
+            Lec: Algorithms</td><!-- Lecture -->
+        <td><a href="/bjc-su26/lab_directory">Lab: Recursive Reporters</a><br/>
+        <a href="/bjc-su26/lab_directory">Lab: Trees + Fractals</a><br/>
+        <a href="/bjc-su26/lab_directory">Lab: Algorithms</a></td><!-- Lab -->
+        <td><a href="https://forms.gle/Kw274YWMRhXXWwpF9">Day 6 Reflection</a></td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Tue 6/30</th> <!-- Date -->
+        <td>Lec: Hardware<br/>
+            Lec: More AI (pipelines)</td><!-- Lecture -->
+        <td>Lab 5</td> <!-- Lab -->
+        <td>Day 7 Reflection</td> <!-- Discussion -->
+        <td></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Wed 7/1</th> <!-- Date -->
+        <td>Lec: Hardware<br/>
+            Lec: More AI (pipelines)</td><!-- Lecture -->
+        <td></td><!-- Lab -->
+        <td>Day 8 Reflection</td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 7/2</th> <!-- Date -->
+        <td>Final Project Presentations!</td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td>Day 9 Reflection</td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
+    </tr>
+  </tbody>
+</table>
