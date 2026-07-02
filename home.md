@@ -12,11 +12,11 @@ nav_order: 1
 # **BJC Summer Academy 2026**
 UC Berkeley, Summer 2026
 
-<!---
+
 ## Presentation Link
 
-To join the online Zoom project presentations, [click here](https://berkeley.zoom.us/j/98847941990?pwd=SSXMZJBb3wa3eBMdlSW8iTUekvtc97.1)
--->
+To join the online Zoom project presentations, [click here](https://berkeley.zoom.us/j/92615120962?pwd=9WRxdabYr3njeWzKXVudfzjyEBhZXC.1)
+
 
 {{ site.description }}
 
