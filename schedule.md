@@ -154,12 +154,13 @@
       </td>
 
       <td>
-          <ul>
+          <ul><a href="https://docs.google.com/presentation/d/1Y8A_IIQClMJJvEx8l51_ra3UVgW0W8KD-MBqkkwXpRo/edit?usp=sharing"        <td>
               <li>Fun and Whimsical Game</li>
               <li>AI: Introduction</li>
               <li>AI: Recognition</li>
               <li>AI: Supervised Learning</li>
               <li>AI: Reinforcement Learning</li>
+              </a>
           </ul>
       </td>
 
@@ -167,6 +168,7 @@
           <ul>
               <li>AI: Generative AI</li>
               <li>AI: Neural Network + Perceptrons</li>
+              <li><a href="http://BJC.link/sparks-U4">AI (big groups)</a></li>
               <li><a href = "https://docs.google.com/forms/d/e/1FAIpQLSdV0AJkAFXFIlH4_oXrDH1-FSdZUYIZhk5fJW8s8LUV-J9NRQ/viewform?usp=header">Wrap Up + Reflection Form</a></li>
           </ul>
       </td>
