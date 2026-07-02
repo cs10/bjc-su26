@@ -154,7 +154,7 @@
       </td>
 
       <td>
-          <ul><a href="https://docs.google.com/presentation/d/1Y8A_IIQClMJJvEx8l51_ra3UVgW0W8KD-MBqkkwXpRo/edit?usp=sharing"        <td>
+          <ul><a href="https://docs.google.com/presentation/d/1Y8A_IIQClMJJvEx8l51_ra3UVgW0W8KD-MBqkkwXpRo/edit?usp=sharing"> 
               <li>Fun and Whimsical Game</li>
               <li>AI: Introduction</li>
               <li>AI: Recognition</li>
