@@ -287,7 +287,7 @@
           </ul>
       </td>
       <td>Presentations (Feel free to invite people to the Zoom!)</td>
-      <td>Wrap-up, Photos, Goodbyes</td>
+      <td><a href="https://forms.gle/781vr4nJ9UeSBSRt5">Feedback Form</a><br/>Wrap-up, Photos, Goodbyes</td>
     </tr>
   </tbody>
 </table>
