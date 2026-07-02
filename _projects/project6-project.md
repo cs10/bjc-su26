@@ -74,7 +74,7 @@ It’s best to keep up good style (commenting, specific variable names, non-repe
 
 Your README is meant to serve as a guide to your project, and will be used by the readers as a reference for grading to ensure that you’ve achieved all of the requirements. Instructions for the general sections of the README are included in the template. An additional optional section, the Bug Writeup, is explained in detail below.
 
-The template (including instructions) for the final project README can be found [here](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0). Please make a copy of the Google Doc to work on, and make sure to submit it as a **PDF**. 
+The template (including instructions) for the final project README can be found [here](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?usp=sharing). Please make a copy of the Google Doc to work on, and make sure to submit it as a **PDF**. 
 
 
 ## Video Requirements
