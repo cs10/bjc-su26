@@ -71,8 +71,8 @@ nav_order: 4
     </tr>
     <tr>
         <th>Fri 6/26</th> <!-- Date -->
-        <td>AI (big groups)</td><!-- Lecture -->
-        <td>AI (big groups)</td> <!-- Lab -->
+        <td><a href="https://docs.google.com/presentation/d/1Y8A_IIQClMJJvEx8l51_ra3UVgW0W8KD-MBqkkwXpRo/edit?usp=sharing">AI (big groups)</a></td><!-- Lecture -->
+        <td><a href="http://BJC.link/sparks-U4">AI (big groups)</a></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td><a href="https://www.gradescope.com/courses/1329851/assignments/8256517">Homework: Final Project Proposals</a></td> <!-- Assignment / Exam -->
     </tr>
